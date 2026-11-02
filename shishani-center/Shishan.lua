@@ -1,6 +1,6 @@
 script_name("ШиШаНи Центр")
 script_author("ШиШаНи")
-script_version("1.2")
+script_version("1.3")
 
 require "lib.moonloader"
 
